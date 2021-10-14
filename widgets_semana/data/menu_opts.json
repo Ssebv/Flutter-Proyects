@@ -1,0 +1,98 @@
+{
+    "nombreApp" : "Material App",
+    "rutas" : [
+        {
+            "ruta" : "alert",
+            "icon" : "add_alert",
+            "texto": "Alertas"
+        },
+        {
+            "ruta" : "safeArea",
+            "icon" : "view_list",
+            "texto": "Safe Area"
+        },
+        {
+            "ruta" : "expanded",
+            "icon" : "folder_open",
+            "texto": "Expanded"
+        },
+        {
+            "ruta" : "wrap",
+            "icon" : "donut_large",
+            "texto": "Wrap"
+
+        },
+        {
+            "ruta" : "animatedContainer",
+            "icon" : "input",
+            "texto": "Animated Container"
+
+        },
+        {
+            "ruta" : "animatedOpacity",
+            "icon" : "tune",
+            "texto": "Animated Oacity"
+
+        },
+        {
+            "ruta" : "futureBuilder",
+            "icon" : "list",
+            "texto": "Future Builder"
+
+        },
+        {
+            "ruta" : "fadeTransition",
+            "icon" : "list",
+            "texto": "Fade Transition"
+
+        },
+        {
+            "ruta" : "floatingActionButton",
+            "icon" : "list",
+            "texto": "Floating Action Button"
+
+        },
+        {
+            "ruta" : "pageView",
+            "icon" : "list",
+            "texto": "Page View"
+
+        },
+        {
+            "ruta" : "table",
+            "icon" : "list",
+            "texto": "Table"
+
+        },
+        {
+            "ruta" : "sliverAppBar",
+            "icon" : "list",
+            "texto": "Sliver AppBar"
+
+        },
+        {
+            "ruta" : "sliverListGrid",
+            "icon" : "list",
+            "texto": "Sliver List y Sliver Grid"
+
+        },
+        {
+            "ruta" : "fadeInImage",
+            "icon" : "list",
+            "texto": "Fade In Image"
+
+        },
+        {
+            "ruta" : "streamBuilder",
+            "icon" : "list",
+            "texto": "Stream Builder"
+
+        },
+        {
+            "ruta" : "inheritedWidget",
+            "icon" : "list",
+            "texto": "Inherited Widget"
+
+        }
+    ]
+}
